@@ -2,6 +2,10 @@ from stanfordkarel import *
 
 
 def main():
+    """
+    The task is to place a beeper in the southeast corner of the world
+    and return home. Karel should be facing east at the end.
+    """
     # 1. move to the other corner
     move_to_other_corner()
 
