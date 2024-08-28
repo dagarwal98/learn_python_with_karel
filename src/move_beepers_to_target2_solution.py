@@ -61,4 +61,4 @@ def turn_right():
     turn_left()
 
 if __name__ == "__main__":
-    run_karel_program("move_beeper_two_start")
+    run_karel_program("move_beepers_to_target2_start")
